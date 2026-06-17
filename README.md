@@ -180,7 +180,7 @@ A full list of 45+ calculators is available at the [FinancialAha calculator inde
 | **[FreshBooks](https://www.freshbooks.com)** | Freelancers and service businesses. | $19–$60/mo |
 | **[Xero](https://www.xero.com)** | International small businesses, strong outside the US. | $20–$80/mo |
 | **[FinancialAha Business Templates](https://www.financialaha.com/free-spreadsheet-templates/business-finance/)** | Cash flow forecasting, petty cash logs, profit projections, invoicing. | Free / paid |
-| **[Digital Product Ledger Sample](https://github.com/Ronnie2025/xianyu-virtual-product-ledger-sample)** | Digital product sellers tracking orders, platform fees, product costs, after-sales issues, refund reasons, gross margin, and weekly review actions in a free CSV sample. | Free |
+| **[Digital Product Ledger Sample](https://github.com/Ronnie2025/xianyu-virtual-product-ledger-sample)** | Digital product sellers tracking orders, platform fees, product costs, after-sales issues, refund reasons, gross margin, and weekly review actions in a free Excel/CSV sample. | Free |
 
 ---
 
